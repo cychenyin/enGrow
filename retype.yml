@@ -1,0 +1,27 @@
+input: .
+output: .retype
+
+url: docs.example.com # Use your website address here
+
+start:
+  # Uncomment the next line to try Retype Pro features
+  # pro: true
+
+branding:
+  title: enGrow
+  label: Docs
+
+links:
+- text: 目录
+  link: /
+- text: 简介
+  link: /00-overview/
+- text: 下载安装
+  link: /01-install-and-activate/
+- text: 理论方法
+  link: /25-therory/
+- text: 联系
+  link: /26-contacts/
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."

@@ -1,0 +1,375 @@
+{
+  "version": "4.6.0",
+  "created": "2026-07-28T13:23:50Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "00-overview.md"
+    },
+    {
+      "path": "00-overview\\index.html"
+    },
+    {
+      "path": "01-install-and-activate.md"
+    },
+    {
+      "path": "01-install-and-activate\\index.html"
+    },
+    {
+      "path": "02-interface-overview.md"
+    },
+    {
+      "path": "02-interface-overview\\index.html"
+    },
+    {
+      "path": "03-first-use-guide.md"
+    },
+    {
+      "path": "03-first-use-guide\\index.html"
+    },
+    {
+      "path": "04-open-video-subtitle.md"
+    },
+    {
+      "path": "04-open-video-subtitle\\index.html"
+    },
+    {
+      "path": "05-video-playback-controls.md"
+    },
+    {
+      "path": "05-video-playback-controls\\index.html"
+    },
+    {
+      "path": "06-lookup-while-watching.md"
+    },
+    {
+      "path": "06-lookup-while-watching\\index.html"
+    },
+    {
+      "path": "07-ab-segment-loop.md"
+    },
+    {
+      "path": "07-ab-segment-loop\\index.html"
+    },
+    {
+      "path": "08-screen-vocab-capture.md"
+    },
+    {
+      "path": "08-screen-vocab-capture\\index.html"
+    },
+    {
+      "path": "09-target-vocabulary.md"
+    },
+    {
+      "path": "09-target-vocabulary\\index.html"
+    },
+    {
+      "path": "10-video-vocabulary.md"
+    },
+    {
+      "path": "10-video-vocabulary\\index.html"
+    },
+    {
+      "path": "11-personal-vocabulary.md"
+    },
+    {
+      "path": "11-personal-vocabulary\\index.html"
+    },
+    {
+      "path": "12-vocab-segment-playback.md"
+    },
+    {
+      "path": "12-vocab-segment-playback\\index.html"
+    },
+    {
+      "path": "13-ebbinghaus-review.md"
+    },
+    {
+      "path": "13-ebbinghaus-review\\index.html"
+    },
+    {
+      "path": "14-dictation-training.md"
+    },
+    {
+      "path": "14-dictation-training\\index.html"
+    },
+    {
+      "path": "15-word-formation.md"
+    },
+    {
+      "path": "15-word-formation\\index.html"
+    },
+    {
+      "path": "16-knowledge-graph.md"
+    },
+    {
+      "path": "16-knowledge-graph\\index.html"
+    },
+    {
+      "path": "17-bbw-word-detail.md"
+    },
+    {
+      "path": "17-bbw-word-detail\\index.html"
+    },
+    {
+      "path": "18-book-reader.md"
+    },
+    {
+      "path": "18-book-reader\\index.html"
+    },
+    {
+      "path": "19-dictionary-lookup.md"
+    },
+    {
+      "path": "19-dictionary-lookup\\index.html"
+    },
+    {
+      "path": "20-achievement-panel.md"
+    },
+    {
+      "path": "20-achievement-panel\\index.html"
+    },
+    {
+      "path": "21-settings.md"
+    },
+    {
+      "path": "21-settings\\index.html"
+    },
+    {
+      "path": "22-package-management.md"
+    },
+    {
+      "path": "22-package-management\\index.html"
+    },
+    {
+      "path": "23-purchase-unlock.md"
+    },
+    {
+      "path": "23-purchase-unlock\\index.html"
+    },
+    {
+      "path": "24-shortcuts.md"
+    },
+    {
+      "path": "24-shortcuts\\index.html"
+    },
+    {
+      "path": "25-therory.md"
+    },
+    {
+      "path": "25-therory\\index.html"
+    },
+    {
+      "path": "26-contacts.md"
+    },
+    {
+      "path": "26-contacts\\index.html"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "attachments\\main.png"
+    },
+    {
+      "path": "attachments\\pasted-image-20260606060127.png"
+    },
+    {
+      "path": "attachments\\pasted-image-20260607021326.png"
+    },
+    {
+      "path": "attachments\\pasted-image-20260607024654.png"
+    },
+    {
+      "path": "attachments\\screenshot-01-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-01-02.png"
+    },
+    {
+      "path": "attachments\\screenshot-02-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-02-02.png"
+    },
+    {
+      "path": "attachments\\screenshot-02-03.png"
+    },
+    {
+      "path": "attachments\\screenshot-03-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-03-02.png"
+    },
+    {
+      "path": "attachments\\screenshot-03-04.png"
+    },
+    {
+      "path": "attachments\\screenshot-04-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-04-03.png"
+    },
+    {
+      "path": "attachments\\screenshot-04-04.png"
+    },
+    {
+      "path": "attachments\\screenshot-06-02.png"
+    },
+    {
+      "path": "attachments\\screenshot-06-03.png"
+    },
+    {
+      "path": "attachments\\screenshot-07-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-08-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-08-02.png"
+    },
+    {
+      "path": "attachments\\screenshot-09-03.png"
+    },
+    {
+      "path": "attachments\\screenshot-11-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-11-02.png"
+    },
+    {
+      "path": "attachments\\screenshot-11-03.png"
+    },
+    {
+      "path": "attachments\\screenshot-11-04.png"
+    },
+    {
+      "path": "attachments\\screenshot-12-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-13-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-13-02.png"
+    },
+    {
+      "path": "attachments\\screenshot-13-03.png"
+    },
+    {
+      "path": "attachments\\screenshot-14-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-14-02.png"
+    },
+    {
+      "path": "attachments\\screenshot-14-03.png"
+    },
+    {
+      "path": "attachments\\screenshot-15-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-15-02.png"
+    },
+    {
+      "path": "attachments\\screenshot-15-03.png"
+    },
+    {
+      "path": "attachments\\screenshot-15-04.png"
+    },
+    {
+      "path": "attachments\\screenshot-16-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-16-02.png"
+    },
+    {
+      "path": "attachments\\screenshot-16-03.png"
+    },
+    {
+      "path": "attachments\\screenshot-17-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-17-03.png"
+    },
+    {
+      "path": "attachments\\screenshot-18-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-19-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-20-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-21-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-22-01.png"
+    },
+    {
+      "path": "attachments\\screenshot-22-02.png"
+    },
+    {
+      "path": "attachments\\screenshot-23-01.png"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "llms.txt"
+    },
+    {
+      "path": "readme.md"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\instagram.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml"
+    }
+  ]
+}

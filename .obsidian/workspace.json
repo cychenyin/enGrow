@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "3011a5701c54c18b",
+    "type": "split",
+    "children": [
+      {
+        "id": "110ae537d3061a6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acb0fee43d0880bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-screen-vocab-capture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08-screen-vocab-capture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d90bd88f5336c915",
+    "type": "split",
+    "children": [
+      {
+        "id": "b26da9ae09f2f56f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "879f531aabddcece",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3be46dad0276620e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fa27e6a2469f992c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ac9304093db3742",
+    "type": "split",
+    "children": [
+      {
+        "id": "520681eb118f5200",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f16d94fbc1fda6d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "08-screen-vocab-capture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "08-screen-vocab-capture 的反向链接列表"
+            }
+          },
+          {
+            "id": "f0496f2e576ad4ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "08-screen-vocab-capture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "08-screen-vocab-capture 的出链列表"
+            }
+          },
+          {
+            "id": "30bf3e5ad0e044ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b1f11549b3585a23",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "64208856dffb9e32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "08-screen-vocab-capture.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "08-screen-vocab-capture 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "acb0fee43d0880bc",
+  "lastOpenFiles": [
+    "01-install-and-activate.md",
+    "24-shortcuts.md",
+    "README.md",
+    "25-screenshot-index.md",
+    "23-purchase-unlock.md",
+    "attachments/screenshot-23-01.png",
+    "22-package-management.md",
+    "attachments/screenshot-22-02.png",
+    "attachments/screenshot-22-01.png",
+    "21-settings.md",
+    "attachments/screenshot-21-01.png",
+    "attachments/Pasted image 20260607024654.png",
+    "20-achievement-panel.md",
+    "attachments/screenshot-20-01.png",
+    "19-dictionary-lookup.md",
+    "attachments/screenshot-19-01.png",
+    "18-book-reader.md",
+    "attachments/screenshot-18-01.png",
+    "17-bbw-word-detail.md",
+    "attachments/screenshot-17-03.png",
+    "attachments/screenshot-17-01.png",
+    "16-knowledge-graph.md",
+    "15-word-formation.md",
+    "14-dictation-training.md",
+    "13-ebbinghaus-review.md",
+    "12-vocab-segment-playback.md",
+    "11-personal-vocabulary.md",
+    "10-video-vocabulary.md",
+    "09-target-vocabulary.md",
+    "08-screen-vocab-capture.md",
+    "07-ab-segment-loop.md",
+    "06-lookup-while-watching.md",
+    "05-video-playback-controls.md",
+    "04-open-video-subtitle.md",
+    "03-first-use-guide.md",
+    "02-interface-overview.md",
+    "attachments"
+  ]
+}
