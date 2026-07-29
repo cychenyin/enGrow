@@ -1,5 +1,5 @@
 input: .
-output: .retype
+output: pages
 
 url: docs.example.com # Use your website address here
 
