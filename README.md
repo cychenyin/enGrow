@@ -8,7 +8,7 @@
 ## 文档目录
 
 ### 一、快速上手
-- [00-简介](01-install-and-activate.md)
+- [00-简介](00-overview.md)
 - [01-下载与安装](01-install-and-activate.md)
 - [02-界面总览](02-interface-overview.md)
 - [03-首次使用引导](03-first-use-guide.md)

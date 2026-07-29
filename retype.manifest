@@ -1,6 +1,6 @@
 {
   "version": "4.6.0",
-  "created": "2026-07-29T00:26:44Z",
+  "created": "2026-07-29T01:23:50Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -171,6 +171,9 @@
       "path": "404.html"
     },
     {
+      "path": "attachments\\logo.png"
+    },
+    {
       "path": "attachments\\main.png"
     },
     {
@@ -181,6 +184,9 @@
     },
     {
       "path": "attachments\\pasted-image-20260607024654.png"
+    },
+    {
+      "path": "attachments\\screenshot-00-01.png"
     },
     {
       "path": "attachments\\screenshot-01-01.png"

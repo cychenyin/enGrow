@@ -10,6 +10,9 @@ start:
 branding:
   title: enGrow
   label: Docs
+  logo: /attachments/logo.png
+  logoAlign: left
+  # logoDark: /logo-dark.png   
 
 links:
 - text: 目录
