@@ -8,18 +8,19 @@
 ## 文档目录
 
 ### 一、快速上手
-- [01-安装与激活](01-install-and-activate.md)
+- [00-简介](01-install-and-activate.md)
+- [01-下载与安装](01-install-and-activate.md)
 - [02-界面总览](02-interface-overview.md)
 - [03-首次使用引导](03-first-use-guide.md)
 
-### 二、视频学习
+### 二、场景记忆
 - [04-打开视频与字幕](04-open-video-subtitle.md)
 - [05-视频播放控制](05-video-playback-controls.md)
 - [06-边看视频边查词](06-lookup-while-watching.md)
 - [07-AB段落循环精听](07-ab-segment-loop.md)
 - [08-字幕词汇捕获](08-screen-vocab-capture.md)
 
-### 三、词汇管理
+### 三、词表与词汇
 - [09-目标词表管理](09-target-vocabulary.md)
 - [10-视频词表](10-video-vocabulary.md)
 - [11-定制词表](11-personal-vocabulary.md)
@@ -33,7 +34,7 @@
 ### 五、深度学习工具
 - [16-知识图谱](16-knowledge-graph.md)
 - [17-单词精解（BBW）](17-bbw-word-detail.md)
-- [18-图书阅读器](18-book-reader.md)
+- [18-深入阅读](18-book-reader.md)
 - [19-查词典](19-dictionary-lookup.md)
 
 ### 六、学习成就与进度
@@ -46,5 +47,6 @@
 
 ### 附录
 - [24-快捷键速查表](24-shortcuts.md)
+- [25-指导理论](25-therory.md)
 
 ---

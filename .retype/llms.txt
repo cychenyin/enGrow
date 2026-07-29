@@ -4,7 +4,7 @@
 
 - [enGrow 用户操作手册](https://docs.example.com/readme.md): enGrow 用户操作手册
 - [AB 段落循环精听](https://docs.example.com/07-ab-segment-loop.md): AB 段落循环（AB Segment Loop）允许您精确设定视频的起始点（A）和终止点（B），让播放器在这段区间内无限循环播放，适合：
-- [下载与安装](https://docs.example.com/01-install-and-activate.md): Google Drive: enGrow-v2.5.57-trial.zip: https://drive.google.com/file/d/1qd7igTDshykbsy-0pTM9mg-OPGOlWL4c/view?usp=sharing enGrow-v2.5.57-trial.7z :
+- [下载与安装](https://docs.example.com/01-install-and-activate.md): github release:
 - [单词精解（BBW）](https://docs.example.com/17-bbw-word-detail.md): 🔒 本功能需要解锁单词精解数据包（BBW）。
 - [听写训练](https://docs.example.com/14-dictation-training.md): 听写训练（✍️ 听写）通过播放音频让您拼写听到的单词或句子，是检验和强化词汇掌握的高效方式。
 - [图书阅读器](https://docs.example.com/18-book-reader.md): 📚 本功能提供内置英文图书的阅读能力，部分图书需单独购买。
@@ -12,8 +12,8 @@
 - [学习成就面板](https://docs.example.com/20-achievement-panel.md): 学习成就面板（🏆 成就）展示您的学习进度、积累数据和学习里程碑，帮助您了解自己的学习状态，保持学习动力。
 - [定制词表](https://docs.example.com/11-personal-vocabulary.md): 定制词表（⭐ 定制词表）是您自己创建和维护的个性化单词列表。 与目标词表（系统预设）不同，定制词表完全由您决定包含哪些词汇，适合：
 - [快捷键速查表](https://docs.example.com/24-shortcuts.md): 快捷键
-- [快捷键速查表](https://docs.example.com/25-therory.md): 二语习得理论
 - [打开视频与字幕](https://docs.example.com/04-open-video-subtitle.md): 方法一：工具栏按钮
+- [指导理论](https://docs.example.com/25-therory.md): 二语习得理论
 - [数据包管理](https://docs.example.com/22-package-management.md): enGrow 的扩展内容以**数据包（VPK）**的形式分发和管理：
 - [构词解析](https://docs.example.com/15-word-formation.md): 🔒 本功能需要解锁构词解析数据包（WF）。试用版不包含此功能。
 - [查词典](https://docs.example.com/19-dictionary-lookup.md): 词典面板（📚 词典）是 enGrow 的核心查词工具，与所有其他面板深度集成——无论在哪里点击单词，词典面板都会自动更新显示该词信息。

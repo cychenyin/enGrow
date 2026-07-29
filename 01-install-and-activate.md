@@ -3,6 +3,13 @@
 ## 1.1 下载 
 
 ### 试用版下载地址
+github release:
+
+enGrow-v2.5.57-trial.zip: https://github.com/cychenyin/enGrow/releases/download/v2.5.57/enGrow-v2.5.57-trial.zip
+
+enGrow-v2.5.57-trial.7z: https://github.com/cychenyin/enGrow/releases/download/v2.5.57/enGrow-v2.5.57-trial.7z
+
+
 Google Drive: 
 
 enGrow-v2.5.57-trial.zip:  https://drive.google.com/file/d/1qd7igTDshykbsy-0pTM9mg-OPGOlWL4c/view?usp=sharing

@@ -1,34 +1,47 @@
 # 下载与安装
 
-## 下载途径 
+## 1.1 下载 
 
 ### 试用版下载地址
+github release:
+
+enGrow-v2.5.57-trial.zip: https://github.com/cychenyin/enGrow/releases/download/v2.5.57/enGrow-v2.5.57-trial.zip
+
+enGrow-v2.5.57-trial.7z: https://github.com/cychenyin/enGrow/releases/download/v2.5.57/enGrow-v2.5.57-trial.7z
+
 Google Drive: 
+
 enGrow-v2.5.57-trial.zip:  https://drive.google.com/file/d/1qd7igTDshykbsy-0pTM9mg-OPGOlWL4c/view?usp=sharing
+
 enGrow-v2.5.57-trial.7z :  https://drive.google.com/file/d/1xX2gW0SofOTQNqt0KxjHLKNxzt_HJ1mK/view?usp=sharing
 
 百度云盘: 
+
 enGrow-v2.5.57-trial.7z : https://pan.baidu.com/s/1uMk6ym31Qd-MSw9JYiTj0A?pwd=fj49 
+
 enGrow-v2.5.57-trial.zip: https://pan.baidu.com/s/1CvV0KV_wYHBtRpdfFWvt0Q?pwd=22qp 
 
 ### 正式版
 请先下载试用版, 然后根据提示升级正式版
 注意, 正式版仅支持用户购买的电脑上运行, 不允许电脑拷贝.  
 
-## 1.1 系统要求
+## 1.2 系统要求
 
 | 项目 | 最低要求 |
 |---|---|
 | 操作系统 | Windows 10 64位 及以上 |
 | 内存 | 4 GB RAM（推荐 8 GB） |
-| 磁盘空间 | 1 GB 可用空间（含词典数据包） |
+| 磁盘空间 | 2 GB 可用空间（含词典数据包， 可能需要下载AI预训练模型） |
 | 显卡 | 支持 Direct3D 11 或 OpenGL 2.0 |
 | 网络 | 激活时需要联网（后续可离线使用） |
 
+如果有 Mac 或者 Linux系统版本使用需求，请单独联系。 
+
 ---
 
-## 1.2 安装步骤
+## 1.3 安装步骤
 
+本软件不提供安装器，只提供压缩包，请解压缩后运行。 
 1. 将收到的安装包解压到任意目录，例如 `D:\enGrow\`
 2. 进入解压目录，双击 `enGrow.exe` 启动应用
 3. 首次启动时，程序会自动完成初始化（约 5–10 秒）
@@ -39,7 +52,7 @@ enGrow-v2.5.57-trial.zip: https://pan.baidu.com/s/1CvV0KV_wYHBtRpdfFWvt0Q?pwd=22
 
 ---
 
-## 1.3 试用版限制
+## 1.4 试用版限制
 
 试用版软件开箱即用，无需激活，但存在以下限制：
 
@@ -49,7 +62,7 @@ enGrow-v2.5.57-trial.zip: https://pan.baidu.com/s/1CvV0KV_wYHBtRpdfFWvt0Q?pwd=22
 
 ---
 
-## 1.4 正式版激活
+## 1.5 正式版激活
 
 正式版为购买者专属版本，与购买者的设备硬件绑定，无需每次联网验证。
 
@@ -59,7 +72,7 @@ enGrow-v2.5.57-trial.zip: https://pan.baidu.com/s/1CvV0KV_wYHBtRpdfFWvt0Q?pwd=22
 
 ![SCREENSHOT: screenshot-01-02 正式版首次启动成功界面，显示版本信息和无试用倒计时](attachments/screenshot-01-02.png)
 
-## 1.5 常见安装问题
+## 1.6 常见安装问题
 
 | 问题 | 解决方法 |
 |---|---|
